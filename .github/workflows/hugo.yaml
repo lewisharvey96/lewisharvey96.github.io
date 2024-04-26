@@ -22,10 +22,11 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-# Default to bash
+# Default to bash and lewis/directory
 defaults:
-  run:
-    shell: bash
+    run:
+      shell: bash
+      working-directory: ./lewis
 
 jobs:
   # Build job
