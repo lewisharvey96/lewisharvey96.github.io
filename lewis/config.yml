@@ -1,0 +1,48 @@
+baseURL: 'https://lewisharvey96.github.io/'
+title: 'About me'
+theme: 'PaperMod'
+
+ShowToc: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Posts
+          url: posts/
+          weight: 10
+        - name: Search
+          url: search/
+          weight: 10
+  
+params:
+  profileMode:
+    enabled: true
+    title: "Lewis Harvey" # optional default will be site title
+    subtitle: "A Data Scientist with a passion for renewable energy."
+    imageUrl: "headshot.jpg" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+    - name: Posts
+      url: "/posts"
+
+  socialIcons: # optional
+    - name: linkedin
+      title: Go to LinkedIn
+      url: "https://www.linkedin.com/in/lewis-harvey-786b8b177/"
+    - name: github
+      title: Go to Github
+      url: "https://github.com/lewisharvey96"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
