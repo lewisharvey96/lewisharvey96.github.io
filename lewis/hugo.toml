@@ -1,0 +1,4 @@
+baseURL = 'https://lewisharvey96.github.io/'
+languageCode = 'en-gb'
+title = 'Lewis Harvey'
+theme = 'PaperMod'
