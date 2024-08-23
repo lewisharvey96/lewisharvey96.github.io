@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lewisharvey96.github.io/</loc>
     <lastmod>2024-08-13T09:12:17+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://lewisharvey96.github.io/posts/</loc>
     <lastmod>2024-08-13T09:12:17+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ruffly/</loc>
+    <loc>https://lewisharvey96.github.io/posts/ruffly/</loc>
     <lastmod>2024-08-13T09:12:17+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/streamlit_carbon/</loc>
+    <loc>https://lewisharvey96.github.io/posts/streamlit_carbon/</loc>
     <lastmod>2024-04-26T16:20:53+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/wind_europe_2023/</loc>
+    <loc>https://lewisharvey96.github.io/posts/wind_europe_2023/</loc>
     <lastmod>2024-04-26T14:42:52+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lewisharvey96.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://lewisharvey96.github.io/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://lewisharvey96.github.io/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lewisharvey96.github.io/tags/</loc>
   </url>
 </urlset>

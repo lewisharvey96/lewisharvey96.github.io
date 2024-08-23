@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>About me</title>
-    <link>http://localhost:1313/</link>
+    <link>https://lewisharvey96.github.io/</link>
     <description>Recent content on About me</description>
     <generator>Hugo -- 0.125.4</generator>
     <language>en</language>
     <lastBuildDate>Tue, 13 Aug 2024 09:12:17 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lewisharvey96.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ruffly</title>
-      <link>http://localhost:1313/posts/ruffly/</link>
+      <link>https://lewisharvey96.github.io/posts/ruffly/</link>
       <pubDate>Tue, 13 Aug 2024 09:12:17 +0100</pubDate>
-      <guid>http://localhost:1313/posts/ruffly/</guid>
-      <description>Ruffly is a cli tool written in Python to copy configuration for tools such as ruff from a source .toml. I typically use a consistent set of tool configurations, think line length, across projects and always ended up copying and pasting from one repo to another. This was a pretty &amp;ldquo;rough&amp;rdquo; process, sometimes I would grab more than I wanted, sometime I&amp;rsquo;d grab configuration for a tool I didn&amp;rsquo;t need. Since most of the settings were for ruff: &amp;ldquo;ruffly&amp;rdquo; seemed a fitting name.</description>
+      <guid>https://lewisharvey96.github.io/posts/ruffly/</guid>
+      <description>Ruffly is a cli tool written in Python to copy configuration for tools such as ruff from a source .toml. I typically use a consistent set of tool configurations, think line length, across projects and always ended up copying and pasting from one repo to another. This was a pretty &amp;ldquo;rough&amp;rdquo; process, sometimes I would grab more than I wanted and sometime I&amp;rsquo;d grab configuration for a tool I didn&amp;rsquo;t need.</description>
     </item>
     <item>
       <title>Streamlit Hackathon</title>
-      <link>http://localhost:1313/posts/streamlit_carbon/</link>
+      <link>https://lewisharvey96.github.io/posts/streamlit_carbon/</link>
       <pubDate>Fri, 26 Apr 2024 16:20:53 +0100</pubDate>
-      <guid>http://localhost:1313/posts/streamlit_carbon/</guid>
+      <guid>https://lewisharvey96.github.io/posts/streamlit_carbon/</guid>
       <description>Created a data app to show current UK grid carbon intensity as part of a Streamlit hackathon.
 Source code Hosted app </description>
     </item>
     <item>
       <title>Presenting at Wind Europe 2023</title>
-      <link>http://localhost:1313/posts/wind_europe_2023/</link>
+      <link>https://lewisharvey96.github.io/posts/wind_europe_2023/</link>
       <pubDate>Fri, 26 Apr 2024 14:42:52 +0100</pubDate>
-      <guid>http://localhost:1313/posts/wind_europe_2023/</guid>
+      <guid>https://lewisharvey96.github.io/posts/wind_europe_2023/</guid>
       <description>Presented on the topic of a machine learning application within the wind industry at the annual WindEurope conference in Copenhagen on behalf of RES. Machine learning was used to validate the performance impact of turbine aerodynamic upgrades.</description>
     </item>
   </channel>
