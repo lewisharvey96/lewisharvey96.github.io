@@ -27,8 +27,8 @@ params:
     title: "Lewis Harvey" # optional default will be site title
     subtitle: "Data Scientist with a passion for the energy sector."
     imageUrl: "headshot.jpg" # optional
-    imageWidth: 250 # custom size
-    imageHeight: 250 # custom size
+    imageWidth: 200 # custom size
+    imageHeight: 200 # custom size
     buttons:
     - name: Posts
       url: "/posts"
