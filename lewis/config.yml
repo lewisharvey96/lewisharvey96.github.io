@@ -26,6 +26,7 @@ languages:
           weight: 10
   
 params:
+  social: true
   profileMode:
     enabled: true
     title: "Lewis Harvey" # optional default will be site title
@@ -50,3 +51,14 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: True
+
+contentTypes:
+  text/asciidoc: {}
+  text/org: {}
+  text/pandoc: {}
+  text/rst: {}
