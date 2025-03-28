@@ -14,7 +14,7 @@ We can use the aformentioned dataset to investigate this as well.
 ## Utility Scale (>5MW) Renewables and BESS sites
 With Scotland dominated by wind farms and England by solar, this map should let you find locate which ever site has you in a quandary.
 
-<iframe src = "lewis\content\posts\uk_renewables_sites\uk_renewables_map.html" width=520 height=520></iframe>
+![map](uk_renewables_map.html)
 
 ## Top 5 Players by Total Installed Capacity
 ### Wind
