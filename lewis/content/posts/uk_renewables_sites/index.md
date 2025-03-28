@@ -22,19 +22,19 @@ Scottish Power Renewables and SSE are neck and neck. Even including the huge Vik
 
 Scottish Power Renewables are have the largest fleet in the UK. They also operate some of the oldest turbines in the country. This will pose an increasing challenge for the operation and maintenance, but also opportunities for repowering and growth.
 
-{{% include "top_five_wind_operators_by_installed_capacity.md" %}}
+{{% "top_five_wind_operators_by_installed_capacity.md" %}}
 
 #### Solar
 Lighthouse Renewable Energy (now owned by BP since 2018) are the leading developer and operator of solar across Europe, so it's no surprise they dominate in the UK.
 
-{{% include "top_five_solar_operators_by_installed_capacity.md" %}}
+{{% "top_five_solar_operators_by_installed_capacity.md" %}}
 
 #### BESS
 As the new kid on the block it's still all the play for and the top BESS contendars are jostling for position. Harmony Energy Storage is currently out in front but we can expect new comers like Zénobe with a large development pipeline to give them a run for their money in future.
 
-{{% include "top_five_bess_operators_by_installed_capacity.md" %}}
+{{% "top_five_bess_operators_by_installed_capacity.md" %}}
 
 ### (Extra) A Big Table of the Data
 This represent a subset of the government data, namely, only large operational onshore projects. The ones I spend the most time wondering over.
 
-{{% include "uk_renewables_table.md" %}}
+{{% "uk_renewables_table.md" %}}
