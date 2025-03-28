@@ -55,10 +55,4 @@ outputs:
 markup:
   goldmark:
     renderer:
-      unsafe: True
-
-contentTypes:
-  text/asciidoc: {}
-  text/org: {}
-  text/pandoc: {}
-  text/rst: {}
+      unsafe: true
