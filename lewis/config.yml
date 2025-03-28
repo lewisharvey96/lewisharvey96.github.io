@@ -62,3 +62,6 @@ contentTypes:
   text/org: {}
   text/pandoc: {}
   text/rst: {}
+
+security:
+  enableInlineShortcodes: true
