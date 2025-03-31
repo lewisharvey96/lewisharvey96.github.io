@@ -56,3 +56,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+contentTypes:
+  text/asciidoc: {}
+  text/markdown: {}
+  text/org: {}
+  text/pandoc: {}
+  text/rst: {}
