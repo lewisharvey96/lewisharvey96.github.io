@@ -58,8 +58,6 @@ jobs:
         working-directory: lewis
         run: |
           hugo \
-            --gc \
-            --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
